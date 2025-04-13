@@ -25,3 +25,6 @@ https://drive.google.com/drive/u/0/mobile/folders/1SJGQD0_0FLRTgdq5wLMHJT5ib3P2k
 ### NOTE: The saved model is not uploaded due to the limitation of cloud space in GitHub.
 
 ### The testing.ipynb is the notebook file that is used for testing the best models performance after training with a specific training_arguments.
+
+### Next Target 
+Our next target will be apply BanglaBERT model and check it's performance. Then we will try to improve it's accuracy and performance by doing fine-tuning and applying optimizers also.
