@@ -11,7 +11,7 @@ We collected data from Kaggle. Here we are providing the source of collecting da
 Source:https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
 ### Data Visualization
 The data were visualized using the dataview.ipynb. Which is not EDA but the preparation section was that. EDA is the next target in future.
-### There are 7 LLMs trained on this dataset.
+### There are 8 LLMs trained on this dataset.
   .BERT
   .Distil-BERT
   .RoBERTa
@@ -19,11 +19,12 @@ The data were visualized using the dataview.ipynb. Which is not EDA but the prep
   .ALBERT
   .XL-NET
   .Google-Electra
+  .BanglaBERT
 ### Best Model save
-From the previous analysis the conclusion is that without proper finetuning the RoBERTa model performed better in this particular dataset. So, we worked with that and saved the RoBERTa models performance after training.
+ We applied eight LLM models for this dataset and get performance for every models. We get best performance by BanglaBERT which is 75%. Firstly, we get 73% accuracy. Then we applied adamW optimizer and get better accuracy. At last, we applied hyper-parameter tuning and get 75% accuracy for that which is the highest accuracy of our work. And we are going to improve it. 
 
 ### Save Model Link
-https://drive.google.com/drive/u/0/mobile/folders/1SJGQD0_0FLRTgdq5wLMHJT5ib3P2kXYl?usp=sharing_eip_se_dm&ts=67e522bb&huid=7uTO0n8oqqzYYjeCpoUVfA
+https://drive.google.com/drive/folders/1WsDCZ8G6ePfvoOMLwocR-NCXmZr9JqTx
 
 ### NOTE: The saved model is not uploaded due to the limitation of cloud space in GitHub.
 
