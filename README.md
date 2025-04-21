@@ -8,7 +8,7 @@ The "Test.csv" file contains two columns named Data, and Label. Which is used to
 The "Val.csv" file contains two columns named Data, and Label. Which is used to validate the llms. 
 #### Dataset:
 We collected data from Kaggle. Here we are providing the source of collecting data.
-Source: https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
+Source:https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
 ### Data Visualization
 The data were visualized using the dataview.ipynb. Which is not EDA but the preparation section was that. EDA is the next target in future.
 ### There are 7 LLMs trained on this dataset.
