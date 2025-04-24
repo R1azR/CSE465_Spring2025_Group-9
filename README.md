@@ -21,7 +21,7 @@ The data were visualized using the dataview.ipynb. Which is not EDA but the prep
   .Google-Electra
   .BanglaBERT
 ### Best Model save
- We applied eight LLM models for this dataset and get performance for every models. We get best performance by BanglaBERT which is 76%. Firstly, we get 73% accuracy. Then we applied adamW optimizer and get better accuracy. At last, we applied hyper-parameter tuning and get 75% accuracy for that which is the highest accuracy of our work. And we are going to improve it. 
+ We applied eight LLM models for this dataset and get performance for every models. We get best performance by BanglaBERT which is 76%. Firstly, we get 73% accuracy. Then we applied adamW optimizer and get better accuracy. At last, we applied hyper-parameter tuning and get 76% accuracy for that which is the highest accuracy of our work. And we are going to improve it. 
 
 ### Save Model Link
 Here, we are uploading the best performance model link.
@@ -34,7 +34,11 @@ https://drive.google.com/drive/folders/1iQouS4eACJ7GXX6G9k6XpNRsGpJlyazX
 ### Next Target 
 Our next target will be apply BanglaBERT model and check it's performance. Then we will try to improve it's accuracy and performance by doing fine-tuning and applying optimizers also.
 
-
 ### Network Architecture: 
+The network architechture of BanglaBERT pretrained model is uploaded in the **Final_update** folder (Final_update/Network Architecture.png). 
 
+### Confusion Matrix:
+The confusion matring of the labels are shown in the **Final_update** folder (Final_update/Confusion Matrix.png).
 
+### Classification Report:
+The classification report of the final model is uploaded in the **Final_update** folder (Final_update/465_Classification_Report.png)
