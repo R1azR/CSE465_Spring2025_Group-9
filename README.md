@@ -34,6 +34,12 @@ https://drive.google.com/drive/folders/1iQouS4eACJ7GXX6G9k6XpNRsGpJlyazX
 ### Next Target 
 Our next target will be apply BanglaBERT model and check it's performance. Then we will try to improve it's accuracy and performance by doing fine-tuning and applying optimizers also.
 
+### Team Contribution Table:
+|Team Member|Contribution|Model|
+|----------|---------------|------|
+|S.M. Riaz Rahman Antu|Fine-tuned the model, LoRA-Config, Hyper-Parameter Tuning|BanglaBERT, ALBERT,BERT, Electra|
+|Souvik Pramanik|Fine-Tuned the model, Back Translation, Data Augmentation|BanglaBERT, RoBERTa, DeBERTa,Distil-BERT, XL-Net|
+
 ### Network Architecture: 
 The network architechture of BanglaBERT pretrained model is uploaded in the **Final_update** folder (Final_update/Network Architecture.png). 
 
