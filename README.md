@@ -50,3 +50,5 @@ The classification report of the final model is uploaded in the **Final_update**
 |Neutral|0.59|0.51|0.55|
 |Positive|0.81|0.82|0.81|
 |Negative|0.79|0.84|0.82|
+
+**Accuracy : 0.76**
