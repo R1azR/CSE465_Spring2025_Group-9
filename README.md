@@ -40,6 +40,7 @@ Our next target will be apply BanglaBERT model and check it's performance. Then 
 |S.M. Riaz Rahman Antu|Fine-tuned the model, LoRA-Config, Hyper-Parameter Tuning|BanglaBERT, ALBERT,BERT, Electra|
 |Souvik Pramanik|Fine-Tuned the model, Back Translation, Data Augmentation|BanglaBERT, RoBERTa, DeBERTa,Distil-BERT, XL-Net|
 
+**Other Contributions**
 |Team Member|Contribution|
 |----------|---------------|
 |S.M. Riaz Rahman Antu|Written the **testing.ipynb** to predict the saved model|
