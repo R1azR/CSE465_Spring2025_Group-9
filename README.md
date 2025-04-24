@@ -21,11 +21,11 @@ The data were visualized using the dataview.ipynb. Which is not EDA but the prep
   .Google-Electra
   .BanglaBERT
 ### Best Model save
- We applied eight LLM models for this dataset and get performance for every models. We get best performance by BanglaBERT which is 75%. Firstly, we get 73% accuracy. Then we applied adamW optimizer and get better accuracy. At last, we applied hyper-parameter tuning and get 75% accuracy for that which is the highest accuracy of our work. And we are going to improve it. 
+ We applied eight LLM models for this dataset and get performance for every models. We get best performance by BanglaBERT which is 76%. Firstly, we get 73% accuracy. Then we applied adamW optimizer and get better accuracy. At last, we applied hyper-parameter tuning and get 75% accuracy for that which is the highest accuracy of our work. And we are going to improve it. 
 
 ### Save Model Link
 Here, we are uploading the best performance model link.
-https://drive.google.com/drive/folders/1WsDCZ8G6ePfvoOMLwocR-NCXmZr9JqTx
+https://drive.google.com/drive/folders/1iQouS4eACJ7GXX6G9k6XpNRsGpJlyazX
 
 ### NOTE: The saved model is not uploaded due to the limitation of cloud space in GitHub.
 
@@ -33,3 +33,8 @@ https://drive.google.com/drive/folders/1WsDCZ8G6ePfvoOMLwocR-NCXmZr9JqTx
 
 ### Next Target 
 Our next target will be apply BanglaBERT model and check it's performance. Then we will try to improve it's accuracy and performance by doing fine-tuning and applying optimizers also.
+
+
+### Network Architecture: 
+
+
