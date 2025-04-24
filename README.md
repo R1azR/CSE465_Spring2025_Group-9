@@ -42,3 +42,10 @@ The confusion matring of the labels are shown in the **Final_update** folder (Fi
 
 ### Classification Report:
 The classification report of the final model is uploaded in the **Final_update** folder (Final_update/465_Classification_Report.png)
+
+### Results: 
+
+||precision|recall|f1-score|
+|Neutral|0.59|0.51|0.55|
+|Positive|0.81|0.82|0.81|
+|Negative|0.79|0.84|0.82|
